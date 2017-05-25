@@ -1,0 +1,20 @@
+.App-calendar {
+  font-size: 15px;
+  padding: 60px 30px;
+  width: 100%;
+  overflow:auto; 
+  background-color: #FFF;
+  margin: auto;
+  align-content: center;
+  justify-content: center;
+  border-top: solid 1px #f8f8f8;
+  border-bottom: solid 60px #FFF;
+}
+
+.Big-calendar {
+  width: 90%;
+  height: 90vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}

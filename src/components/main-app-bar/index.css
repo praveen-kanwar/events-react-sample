@@ -1,0 +1,18 @@
+.twg-ed-logo {
+  position: absolute;
+  top: 50%;
+  transform: translate(25%, -50%);
+  width: 79px;
+  height: 21px;
+  object-fit: contain;
+}
+
+.CREATE-EVENT {
+  height: 17.1px;
+  font-family: 'PostGrotesk';
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  color: #ffffff;
+  color: var(--white);
+}

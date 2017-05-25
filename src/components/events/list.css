@@ -1,0 +1,127 @@
+.events-wrapper {
+    width: 100%;
+    max-width: 1280px;
+    display: block;
+    padding-bottom: 2%;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.category-wrapper {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.Category {
+    width: 100%;
+    font-family: 'PostGrotesk';
+    font-size: 50px;
+    line-height: 0.96;
+    text-align: center;
+    color: #ffffff;
+    color: var(--white);
+}
+
+.person-name {
+    height: 24px;
+    font-family: 'Copernicus';
+    font-size: 16px;
+    font-style: italic;
+    line-height: 1.5;
+    text-align: center;
+    color: #6c717a;
+}
+
+.BG {
+    height: 544px;
+    text-align: center;
+    background-color: #ffffff;
+    background-color: var(--white);
+    box-shadow: 0 2px 13px 0 rgba(0, 0, 0, 0.2);
+}
+
+.Rectangle {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+}
+
+.Rectangle-overlay {
+    position: absolute;
+    width: 30.67%;
+    height: 7px;
+    opacity: 0.15;
+    background-color: #000;
+}
+
+.Rectangle-information {
+    text-align: center;
+    width: 100%;
+    height: 230px;
+    background-color: #FFF;
+    align-items: flex-end; 
+}
+
+.Creator-name {
+    padding-top: 48px;
+    height: 24px;
+    font-family: 'Copernicus';
+    font-size: 16px;
+    font-style: italic;
+    line-height: 1.5;
+    text-align: center;
+    color: #6c717a;
+}
+
+.Date {
+    padding-top: 38px;
+    height: 22px;
+    font-family: 'PostGrotesk';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.38;
+    text-align: center;
+    color: #6c717a;
+}
+
+.Venue {
+    padding-top: 26px;
+    height: 22px;
+    font-family: 'PostGrotesk';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.38;
+    text-align: center;
+    color: #6c717a;
+}
+
+.Title {
+    padding-top: 41.5px;
+    font-family: 'PostGrotesk';
+    font-size: 27px;
+    font-weight: 500;
+    line-height: 1.26;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+    color: #37393e;
+}
+
+.Actions-container {
+    height: 114px;
+    text-align: center;
+    align-items: flex-end; 
+    justify-content: center;
+    background-color: #FFF;
+    display: flex;
+}
+
+.Avatar {
+    position: absolute;
+    border: solid 3px #FFF;
+    margin-top: 160px;
+    margin-left: 41%;
+}

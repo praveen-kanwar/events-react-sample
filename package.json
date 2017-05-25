@@ -1,0 +1,54 @@
+{
+  "name": "twg-events",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.9.4"
+  },
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "./node_modules/.bin/standard",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "babel-eslint": "^7.2.1",
+    "ejs": "2.4.1",
+    "eslint": "^3.18.0",
+    "express": "4.13.3",
+    "firebase": "^3.7.0",
+    "flexbox-react": "^4.2.1",
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^18.0.0",
+    "material-ui": "^0.17.0",
+    "moment": "^2.17.1",
+    "moment-timezone": "^0.5.11",
+    "prop-types": "^15.5.8",
+    "re-base": "^2.6.0",
+    "react": "^15.4.2",
+    "react-avatar-editor": "^9.1.0",
+    "react-big-calendar": "^0.12.3",
+    "react-bootstrap": "^0.30.7",
+    "react-color": "^2.11.4",
+    "react-copy-to-clipboard": "^4.2.3",
+    "react-dom": "^15.4.2",
+    "react-event-calendar": "^0.3.0",
+    "react-moment": "^0.2.2",
+    "react-redux": "^5.0.3",
+    "react-router": "^2.4.1",
+    "react-tap-event-plugin": "^2.0.1",
+    "react-truncate": "^2.1.0",
+    "redux": "^3.6.0",
+    "redux-logger": "^3.0.0",
+    "redux-promise-middleware": "^4.2.0",
+    "standard": "^9.0.2",
+    "thunk": "0.0.1"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  }
+}

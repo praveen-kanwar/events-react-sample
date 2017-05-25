@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="473" viewBox="0 0 1280 473">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#58B26B" d="M0 0h1280v473H0z"/>
+        <g fill="#FFF" transform="translate(737 71)">
+            <path fill-opacity=".5" d="M30.28 18.431h26.33v26.33H30.28z"/>
+            <ellipse cx="12.99" cy="8.382" fill-opacity=".5" rx="8.382" ry="8.382"/>
+            <path fill-opacity=".4" d="M13.165 42.786L26.33 64.928H0z"/>
+        </g>
+        <g fill="#FFF" fill-opacity=".5" transform="scale(-1 1) rotate(-45 168.306 588.523)">
+            <ellipse cx="12.5" cy="45.268" rx="12.5" ry="12.5"/>
+            <path d="M12.994 0l12.994 18.824H0zM12.994 93.422L25.988 74.6H0z"/>
+        </g>
+        <g fill="#FFF" opacity=".5">
+            <ellipse cx="10.477" cy="10.524" rx="10.477" ry="10.524" transform="translate(282 71)"/>
+            <path d="M338.69 72.074h-21.393l21.392 20.951zM338.69 93.025h-21.393l21.392 20.951zM338.69 113.976h-21.393l21.392 20.951z"/>
+        </g>
+        <g transform="translate(1147 86)">
+            <circle cx="29.621" cy="29.621" r="29.621" stroke="#FFF" stroke-opacity=".5" stroke-width="7"/>
+            <ellipse cx="29.806" cy="29.613" fill="#FFF" fill-opacity=".5" rx="15.188" ry="14.995"/>
+        </g>
+        <g fill="#FFF" opacity=".5" transform="translate(940 198)">
+            <ellipse cx="10.344" cy="53.506" rx="10.344" ry="10.344"/>
+            <ellipse cx="58.5" cy="5.351" rx="5.351" ry="5.351"/>
+            <path d="M22.116 41.673h11.592L22.116 30.32zM32.46 30.972h11.593L32.46 19.62zM43.518 20.271h11.593L43.518 8.918z"/>
+        </g>
+        <g fill="#FFF" opacity=".5" transform="translate(75 174)">
+            <path d="M34.229 0h52.66v9.216h-52.66zM34.229 19.089h64.509v9.216H34.229zM34.229 38.179h32.913v9.216H34.229z"/>
+            <circle cx="10.344" cy="10.344" r="10.344"/>
+        </g>
+        <g fill="#FFF" fill-opacity=".5">
+            <path d="M542.596 172.988h32.913v9.216h-32.913zM535.128 164.102L511 182.204V146z"/>
+        </g>
+        <g fill="#FFF" opacity=".5">
+            <path d="M1115.658 315h26.33v26.33h-26.33zM1126.19 345.28l-10.586 10.587v-10.588z"/>
+            <g>
+                <path d="M1176.217 342.647h-26.33v26.33h26.33zM1165.685 372.927l10.587 10.586v-10.587z"/>
+            </g>
+        </g>
+        <g fill="#FFF" opacity=".5">
+            <path d="M124.917 396.031l15.918-21.115H109zM124.917 338l15.918 21.115H109z"/>
+        </g>
+    </g>
+</svg>

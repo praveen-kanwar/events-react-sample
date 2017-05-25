@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="342" height="258" viewBox="0 0 342 258">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#58B26B" d="M0 0h342v258H0z"/>
+        <g opacity=".3">
+            <g fill="#FFF" transform="translate(274.944 106.443)">
+                <path fill-opacity=".5" d="M17.352 10.559h15.089v15.085H17.352z"/>
+                <ellipse cx="7.444" cy="4.802" fill-opacity=".5" rx="4.803" ry="4.802"/>
+                <path fill-opacity=".4" d="M7.544 24.513l7.545 12.685H0z"/>
+            </g>
+            <g fill="#FFF" fill-opacity=".5" transform="translate(30 108.092)">
+                <ellipse cx="28.092" cy="7.199" rx="7.233" ry="7.199"/>
+                <path d="M37.344 35.827l-9.128-12.5-6.017 8.125-9.75-14.376L0 35.826z"/>
+            </g>
+            <g fill="#FFF" opacity=".5">
+                <ellipse cx="6.004" cy="6.029" rx="6.004" ry="6.029" transform="translate(32.474 193.832)"/>
+                <path d="M64.96 194.448H52.701l12.26 12.003z"/>
+                <path d="M64.96 206.45H52.701l12.26 12.004zM64.96 218.454H52.701l12.26 12.003z"/>
+            </g>
+            <g transform="translate(33.299 24)">
+                <ellipse cx="16.975" cy="16.971" stroke="#FFF" stroke-opacity=".5" stroke-width="5" rx="16.975" ry="16.971"/>
+                <ellipse cx="17.08" cy="16.966" fill="#FFF" fill-opacity=".5" rx="8.703" ry="8.591"/>
+            </g>
+            <g fill="#FFF" opacity=".5" transform="translate(170.702 191.9)">
+                <ellipse cx="5.928" cy="30.655" rx="5.928" ry="5.927"/>
+                <ellipse cx="33.524" cy="3.065" rx="3.066" ry="3.065"/>
+                <path d="M12.674 23.875h6.643l-6.643-6.504zM18.602 17.745h6.643l-6.643-6.505zM24.938 11.614h6.643l-6.643-6.505z"/>
+            </g>
+            <g fill="#FFF" opacity=".5" transform="translate(139.813 38.786)">
+                <path d="M19.615 0h30.177v5.28H19.615zM19.615 10.937h36.967v5.28H19.615zM19.615 21.873h18.861v5.28H19.615z"/>
+                <ellipse cx="5.928" cy="5.927" rx="5.928" ry="5.927"/>
+            </g>
+            <g fill="#FFF" fill-opacity=".5">
+                <path d="M288.524 39.462h18.86v5.28h-18.86zM284.243 34.37L270.42 44.745V23.997z"/>
+            </g>
+            <g fill="#FFF" opacity=".5">
+                <path d="M274.918 191.359h15.09v15.085h-15.09zM280.954 208.707l-6.067 6.065v-6.066z"/>
+                <g>
+                    <path d="M309.622 207.198h-15.089v15.085h15.09zM303.587 224.546l6.066 6.065v-6.066z"/>
+                </g>
+            </g>
+            <g fill="#FFF" opacity=".5">
+                <path d="M136.96 208.048l6.917-9.175h-13.836zM136.96 182.832l6.917 9.175h-13.836z"/>
+            </g>
+        </g>
+    </g>
+</svg>

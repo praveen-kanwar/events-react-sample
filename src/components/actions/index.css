@@ -1,0 +1,5 @@
+.Line {
+    display: block;  
+    height: 0.5px;
+    border-top: solid 0.5px #e8e8e8;
+}

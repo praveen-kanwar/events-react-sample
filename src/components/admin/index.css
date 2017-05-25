@@ -1,0 +1,61 @@
+.admin-wrapper {
+    width:50%;
+    display: inline-block;
+    text-align: left;
+    vertical-align: top; 
+    zoom: 1;
+    *display: inline;
+}
+
+.card-left {
+    margin: 4%;
+    margin-right: 2%;
+    width:94%;
+}
+
+.card-right {
+    margin: 4%;
+    margin-left: 2%;
+    width:94%;
+}
+
+.item-wrapper {
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 1%;
+    width:98%;
+    vertical-align: middle;
+}
+
+.item-left {
+    display: inline-block;
+    vertical-align: middle;
+    width:50%;
+}
+
+.name-left {
+    display: inline-block;
+    vertical-align: middle;
+    width:75%;
+}
+
+.color-left {  
+    display: inline-block;
+    vertical-align: middle;
+    width:5%;
+    margin-left: 8px;
+}
+
+.item-right {
+    display: inline-block;
+    vertical-align: middle;
+    width:40%;
+    text-align: right;
+}
+
+.toggle-right {
+    display: inline-block;
+    vertical-align: middle;
+    width:15%;
+    text-align: right;
+}

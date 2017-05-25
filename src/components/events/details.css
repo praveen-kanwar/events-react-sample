@@ -1,0 +1,26 @@
+.wrapper {
+    width: 100%;
+    display: inline-block;
+    text-align: left;
+    vertical-align: top; 
+    zoom: 1;
+    *display: inline;
+}
+
+.right-gravity {
+    float: right
+}
+
+.details_wrapper {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 80%;
+    display: inline-block;
+    text-align: left;
+    vertical-align: top; 
+    zoom: 1;
+    *display: inline;    
+    background: #ffffff;
+    background-color: var(--white);
+    box-shadow: 0 2px 13px 0 rgba(0, 0, 0, 0.2);
+}
